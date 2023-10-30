@@ -17,7 +17,7 @@
     "editor.fontFamily": "Consolas, 'Dank Mono', 'Source Code Pro', 'Fira Code', Menlo, 'Inconsolata', 'Droid Sans Mono', 'DejaVu Sans Mono', 'Ubuntu Mono', 'Courier New', Courier, Monaco, monospace",
     "terminal.integrated.fontFamily": "",
     "[python]": {
-      "editor.defaultFormatter": "ms-python.python",
+      "editor.defaultFormatter": "ms-python.autopep8",
       "editor.tabSize": 4,
       "editor.insertSpaces": true,
       "editor.formatOnSave": true,
@@ -34,4 +34,5 @@
     // "python.defaultInterpreterPath": "venv/Scripts/python",
     "python.analysis.typeCheckingMode": "basic",
     "cSpell.enabled": false,
+    "python.formatting.provider": "none",
 }
