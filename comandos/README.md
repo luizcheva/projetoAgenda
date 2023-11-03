@@ -16,3 +16,10 @@ git init
 git add .
 git commit -m 'Mensagem'
 git remote add origin URL_DO_GIT
+
+-------> Para WINDOWS
+$ eval $(ssh-agent)
+$ ssh-add ~/.ssh/luizcheva_rsa
+
+
+$ git push -u origin main
