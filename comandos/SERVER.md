@@ -57,7 +57,7 @@ Criando as pastas do projeto e repositório
 mkdir ~/agendarepo ~/agendaapp
 ```
 
-Configurando os repositórios
+### Configurando os repositórios
 
 ```
 cd ~/agendarepo
